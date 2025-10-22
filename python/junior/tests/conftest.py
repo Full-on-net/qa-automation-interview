@@ -1,0 +1,1 @@
+# Reservado para configuración futura de pruebas (por ejemplo, hooks de behave)

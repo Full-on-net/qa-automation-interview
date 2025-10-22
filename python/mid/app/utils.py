@@ -1,0 +1,1 @@
+# Vacío de momento, reservado para funciones auxiliares (no se usa aún)
