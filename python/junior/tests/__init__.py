@@ -1,0 +1,1 @@
+# Permite tratar el directorio de tests como paquete si fuera necesario
