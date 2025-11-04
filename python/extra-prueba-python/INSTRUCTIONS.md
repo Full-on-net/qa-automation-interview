@@ -7,4 +7,6 @@ Tendrá que hacer varias tareas:
 2. Controlar posibles errores en la llamada a la API y manejarlos adecuadamente.
 3. Implementar algún test unitario simple sobre el script usando el framework que se quiera.
 4. Debe usarse anotaciones de Python (type hints).
+
 5. Debe guardar los resultados de cada petición al script en un fichero separado que sea persistente e incremental.
+6. Se valorará la simplicidad del código entregado.
