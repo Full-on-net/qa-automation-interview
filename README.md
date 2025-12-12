@@ -6,4 +6,5 @@ perfil de la entrevista en formato zip.
 - La prueba consiste en probar una API HTTP usando un framework de pruebas BDD. 
 
 - Dentro de cada proyecto, hay un README.md que explica la estructura tecnica de la api a probar y un INSTRUCTIONS.md con lo que se espera del candidato.
-- La carpeta extra-prueba-python es una pequeña prueba orientada a desarrollo que de QA para medir las capacidades del candidato 
+- La carpeta extra-prueba-python es una pequeña prueba orientada a desarrollo para medir las capacidades del candidato que complementa a las ya existentes de QA
+
